@@ -125,7 +125,10 @@ fastapi dev main.py
 
 7. **Test the API**:
 ```properties
-Open http://127.0.0.1:8000/docs
+Swagger Documentation http://127.0.0.1:8000/docs
+```
+```properties
+Redoc Documentation http://127.0.0.1:8000/redoc
 ```
 
 ## Notes
